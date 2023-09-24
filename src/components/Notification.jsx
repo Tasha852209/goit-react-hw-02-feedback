@@ -1,5 +1,5 @@
 import React from 'react';
 
-export const Notafication = ({ message }) => {
+export const Notification = ({ message }) => {
   return <div>{message}</div>;
 };
